@@ -30,7 +30,7 @@ SWEP.Base 				= "snipgauss_gun_base" --the Base this weapon will work on. PLEASE
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 
-SWEP.Primary.Sound			= Sound("40k/b_fire5.wav")	-- script that calls the primary fire sound
+SWEP.Primary.Sound			= Sound("40k/plasma1.wav")	-- script that calls the primary fire sound
 SWEP.Primary.RPM				= 180		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 10		-- Size of a clip
 SWEP.Primary.DefaultClip			= 100	-- Bullets you start with
